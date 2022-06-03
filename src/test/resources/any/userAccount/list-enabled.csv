@@ -1,0 +1,5 @@
+recordIndex,roles,identity.name,identity.surname,identity.email
+0,Inventor Authenticated,Tester,JasJas,administrator@acme.com
+1,Inventor Authenticated,Tesla,JasJas,administrator@acme.com
+2,Patron Authenticated,Testito,Diaz,administrator@acme.com
+3,Patron Authenticated,Luisito,JasJas,administrator@acme.com

@@ -1,0 +1,8 @@
+recordIndex,version,author,body,email,title,confirm
+0,0,texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error,Chirp de ejemplo,testito@test.com,asd,true
+0,0,Macarena,texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo,testito@test.com,asd,true
+0,0,Macarena,Chirp de ejemplo,testito@test.com,texto demasiado largo para probar error texto demasiado largo para probar error texto demasiado largo para probar error,true
+0,0,,Chirp de ejemplo,testito@test.com,asd,true
+0,0,Macarena,,testito@test.com,asd,true
+0,0,Macarena,Chirp de ejemplo,testito@test.com,,true
+0,0,Macarena,Chirp de ejemplo,testito@test.com,asd,false

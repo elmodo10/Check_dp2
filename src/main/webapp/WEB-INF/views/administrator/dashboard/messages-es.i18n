@@ -1,0 +1,45 @@
+# i18n-es.i18n
+#
+
+administrator.dashboard.form.label.index = Índice
+
+administrator.dashboard.form.label.totals = Patronages e Items totales
+administrator.dashboard.form.label.budgets = Información de presupuestos
+administrator.dashboard.form.label.components = Información de componentes por tech & divisa
+administrator.dashboard.form.label.items = Información de Items por divisa
+
+administrator.dashboard.form.label.totalComponents = Total de componentes
+administrator.dashboard.form.label.totalTools = Total de herramientas
+
+administrator.dashboard.form.label.totalNumberPatronagesProposed = Total Patronages propuestos
+administrator.dashboard.form.label.totalNumberPatronagesAccepted = Total Patronages aceptados
+administrator.dashboard.form.label.totalNumberPatronagesDenied = Total Patronages denegados
+
+administrator.dashboard.form.label.patronagesBudgetsMaxproposed = Máximo propuesto
+administrator.dashboard.form.label.patronagesBudgetsMinproposed = Mínimo propuesto
+administrator.dashboard.form.label.patronagesBudgetsAvgproposed = Media propuesto
+administrator.dashboard.form.label.patronagesBudgetsDevproposed = Desviación propuesto
+
+administrator.dashboard.form.label.patronagesBudgetsMaxaccepted = Máximo aceptado
+administrator.dashboard.form.label.patronagesBudgetsMinaccepted = Mínimo aceptado
+administrator.dashboard.form.label.patronagesBudgetsAvgaccepted = Media aceptado
+administrator.dashboard.form.label.patronagesBudgetsDevaccepted = Desviación aceptado
+
+administrator.dashboard.form.label.patronagesBudgetsMaxdenied = Máximo rechazado
+administrator.dashboard.form.label.patronagesBudgetsMindenied = Mínimo rechazado
+administrator.dashboard.form.label.patronagesBudgetsAvgdenied = Media rechazado
+administrator.dashboard.form.label.patronagesBudgetsDevdenied = Desviación rechazado
+
+administrator.dashboard.form.label.maxPrice = Precio máx
+administrator.dashboard.form.label.minPrice = Precio mín
+administrator.dashboard.form.label.avgPrice = Precio medio
+administrator.dashboard.form.label.devPrice = Desviación típica
+
+
+administrator.dashboard.chimpum.budged = Presupuesto de Chimpum
+administrator.dashboard.chimpum.ratio = Ratio de Chimpum y Artefact 
+
+administrator.dashboard.form.label.currency = Divisa
+administrator.dashboard.form.label.technology = Tecnología
+
+administrator.dashboard.form.label.in = en

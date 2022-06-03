@@ -1,0 +1,10 @@
+
+patron.patronageReport.form.label.seqNumber = Número de secuencia automático
+patron.patronageReport.form.label.createdAt = Creado A
+patron.patronageReport.form.label.memorandum = Memorándum
+patron.patronageReport.form.label.link = Link
+
+patron.patronageReport.list.label.seqNumber = Número de secuencia automático
+patron.patronageReport.list.label.createdAt = Creado A
+patron.patronageReport.list.label.memorandum = Memorándum
+patron.patronageReport.list.label.link = Link

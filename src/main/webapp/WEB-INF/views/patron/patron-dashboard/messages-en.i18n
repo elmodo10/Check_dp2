@@ -1,0 +1,19 @@
+# i18n-es.i18n
+#
+
+patron.dashboard.form.label.totalpatronageproposed = Total Proposed Patronages
+patron.dashboard.form.label.totalpatronageaccepted = Total Accepted Patronages
+patron.dashboard.form.label.totalpatronagedenied = Total Denied Patronages
+patron.dashboard.form.label.totals = Total Patronages
+
+
+patron.dashboard.form.label.partronageproposed = Proposed Patronages
+patron.dashboard.form.label.partronageaccepted =  Accepted Patronages
+patron.dashboard.form.label.partronagedenied = Denied Patronages
+
+patron.dashboard.form.label.maxPrice = Max price
+patron.dashboard.form.label.minPrice = Min price
+patron.dashboard.form.label.avgPrice = Average Price
+patron.dashboard.form.label.devPrice = Deviation
+
+patron.dashboard.form.label.currency = Currency

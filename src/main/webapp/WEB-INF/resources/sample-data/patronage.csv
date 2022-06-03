@@ -1,0 +1,19 @@
+key,status,code,legalStuff,budget,publishedStatus,startsAt,finishesAt,link,key:patron,key:inventor,creationTime
+patronage-01,accepted,ABC-123,Legalidad patronage 1,50.00 eur,NONE_PUBLISHED,2022/06/24 15:22,2022/07/28 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-02,accepted,ABC-124,Legalidad patronage 2,75.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-03,accepted,ABC-125-D,Legalidad patronage 1,100.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-04,accepted,ABC-123-F,Legalidad patronage 1,125.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-05,denied,ABC-127,Legalidad patronage 1,150.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-06,denied,ABC-125-A,Legalidad patronage 1,175.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-07,denied,ABC-130,Legalidad patronage 1,200.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-08,denied,ABC-127-P,Legalidad patronage 1,225.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-09,proposed,ABC-120-C,Legalidad patronage 1,250.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-10,proposed,ABC-139,Legalidad patronage 1,275.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-11,proposed,ABC-197,Legalidad patronage 1,300.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-12,proposed,AEC-123,Legalidad patronage 1,325.00 eur,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-13,proposed,LUI-135,Legalidad patronage 1,326.00 usd,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-14,proposed,UST-123,Legalidad patronage 1,326.00 gbp,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-15,accepted,ACM-123,Legalidad patronage 1,266.00 usd,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-16,denied,PAT-138,Legalidad patronage 1,300.00 usd,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-17,denied,COR-139,Legalidad patronage 1,126.00 gbp,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22
+patronage-18,accepted,IAA-140,Legalidad patronage 1,226.00 gbp,NONE_PUBLISHED,2021/02/02 15:22,2021/03/03 15:22,https://youtube.com/,patron-01,inventor-01,2021/01/01 15:22

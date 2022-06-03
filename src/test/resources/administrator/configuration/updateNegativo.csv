@@ -1,0 +1,11 @@
+recordIndex,weakSpamWords,weakSpamThreshold,strongSpamWords,strongSpamThreshold,AcceptedCurr,defaultCurr
+0,,0.11,cocaina,0.15,"EUR,USD",USD
+0,"pene,pito",,cocaina,0.15,"EUR,USD",USD
+0,"pene,pito",0.11,,0.15,"EUR,USD",USD
+0,"pene,pito",0.11,cocaina,,"EUR,USD",USD
+0,"pene,pito",0.11,cocaina,0.15,,USD
+0,"pene,pito",0.11,cocaina,0.15,"EUR,USD",
+0,"pene,pito",2,cocaina,0.15,"EUR,USD",USD
+0,"pene,pito",0.15,cocaina,2,"EUR,USD",USD
+0,"pene,pito",0.15,cocaina,0.2,"EURO14574",USD
+0,"pene,pito",0.15,cocaina,0.2,"EUR,USD",USDIU4714

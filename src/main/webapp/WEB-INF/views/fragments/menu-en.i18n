@@ -1,0 +1,101 @@
+# menu-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+# master.menu #################################################################
+
+master.menu.home = Home
+master.menu.sign-up = Sign up
+master.menu.sign-in = Sign in
+master.menu.sign-out = Sign out
+
+# master.menu.anonymous #######################################################
+
+master.menu.anonymous = Anonymous
+master.menu.anonymous.user-account = List Enabled Accounts
+master.menu.anonymous.favourite-link = Favourite link
+master.menu.anonymous.favourite-link-luibelzan = 32899320M: Bellido, Luis Miguel
+master.menu.anonymous.favourite-link-josgarqui = 75969606P: García, Jose Mª
+master.menu.anonymous.favourite-link-elomordom = 49546083N: Moreno, Eloy
+master.menu.anonymous.favourite-link-diegonqui = 29539782P: González, Diego
+master.menu.anonymous.favourite-link-juamenvar = 77200485L: Mena, Juan Antonio
+master.menu.anonymous.favourite-link-dandianog = 30267676K: Díaz, Daniel
+master.menu.anonymous.list-toolkit = List Published Toolkits
+
+master.menu.anonymous.any-chirp = Chirps
+
+
+# master.menu.autehticated #######################################################
+master.menu.authenticated = Authenticated
+master.menu.authenticated.user-account = List Enabled Accounts
+master.menu.authenticated.configuration = System configuration
+authenticated.menu.announcement.favourite-link-dandianog= List Announcement
+master.menu.authenticated.list-toolkit = List Published Toolkits
+
+# master.menu.administrator ###################################################
+
+master.menu.administrator = Administrator
+master.menu.administrator.dashboard = Dashboard
+master.menu.administrator.user-accounts = User accounts
+master.menu.administrator.configurations = Configurations
+master.menu.administrator.populate-initial = Populate DB (initial)
+master.menu.administrator.populate-sample = Populate DB (samples)
+master.menu.administrator.shut-down = Shut down
+master.menu.administrator.announcement=List announcements
+
+# master.menu.provider ########################################################
+
+master.menu.provider = Provider
+master.menu.provider.favourite-link = Favourite link
+
+# master.menu.consumer ##########################################################
+
+master.menu.consumer = Consumer
+master.menu.consumer.favourite-link = Favourite link
+# master.menu.patron ##########################################################
+
+master.menu.patron = Patron
+master.menu.patron.dashboard = Show Dashboard
+
+
+# master.menu.inventor ##########################################################
+master.menu.inventor = Inventor
+master.menu.inventor.toolkits = List Own Toolkits
+master.menu.inventor.components = List Own Components
+master.menu.inventor.tools = List Own Tools
+master.menu.inventor.patronage = List Own Patronages
+
+# master.menu.patron ##########################################################
+
+master.menu.patron = Patron
+master.menu.patron.patronage = List Patronage
+
+# master.menu.inventor ########################################################
+
+master.menu.inventor = Inventor
+master.menu.inventor.patronage = Patronages
+master.menu.inventor.patronage-report = Patronage Report
+# master.menu.user-account ####################################################
+
+master.menu.user-account = Account
+master.menu.user-account.general-data = General data
+master.menu.user-account.provider = Provider data
+master.menu.user-account.become-provider = Become a provider
+master.menu.user-account.consumer = Consumer data
+master.menu.user-account.become-consumer = Become a consumer
+master.menu.user-account.become-patron = Become a patron
+master.menu.user-account.become-inventor = Become a inventor
+master.menu.user-account.patron = Patron data
+master.menu.user-account.inventor = Inventor data
+
+
+master.menu.anonymous.list-component = List Published Components
+master.menu.anonymous.list-tool = List Published Tools
+master.menu.anonymous.list-by-toolkit = List by Toolkit
+master.menu.items = Show items

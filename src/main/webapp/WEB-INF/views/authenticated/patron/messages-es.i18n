@@ -1,0 +1,6 @@
+authenticated.patron.form.label.company = Empresa
+authenticated.patron.form.label.statement = Declaración
+authenticated.patron.form.label.link = URL
+
+authenticated.patron.form.button.create = Crear patron
+authenticated.patron.form.button.update = Actualizar patron

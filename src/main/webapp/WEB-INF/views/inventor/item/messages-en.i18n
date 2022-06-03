@@ -1,0 +1,36 @@
+inventor.item.list.label.name = Name
+inventor.item.list.label.description = Description
+inventor.item.list.label.price = Retail Price
+inventor.item.list.label.type = Type
+
+inventor.item.form.label.name = Name
+inventor.item.form.label.code = Code
+inventor.item.form.label.technology = Technology
+inventor.item.form.label.description = Description
+inventor.item.form.label.price = Retail Price
+inventor.item.form.label.link = Link
+inventor.item.form.label.status = Status
+inventor.item.form.label.type = Type
+inventor.item.form.label.component = Component
+inventor.item.form.label.tool = Tool
+
+
+inventor.item.list.button.create = Create
+inventor.item.form.button.create = Create 
+inventor.item.form.button.delete = Delete
+inventor.item.form.button.update = Update
+inventor.item.form.button.publish = Publish
+inventor.label.moneyExchange = System's Currency
+inventor.item.title.codeNotUnique = This code is already in use
+
+
+inventor.item.form.label.published = Published
+inventor.item.form.label.nonpublished = Non Published
+
+inventor.item.strongspam = Strong Spam
+inventor.item.weakspam =  Weak Spam
+
+inventor.item.title.minPrice = Minimum price must be greather or equal than 0
+
+inventor.item.form.buttom.chimpum-list = List Chimpum
+inventor.item.form.button.chimpum-create = Create Chimpum

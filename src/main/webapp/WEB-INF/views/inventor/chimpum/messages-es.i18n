@@ -1,0 +1,47 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+	inventor.chimpum.form.label.code=Codigo
+	inventor.chimpum.form.label.creation=Momento de creacion
+	inventor.chimpum.form.label.title= Titulo
+	inventor.chimpum.form.label.description= Descripcion
+	inventor.chimpum.form.label.startsAt= Periodo1
+	inventor.chimpum.form.label.finishesAt=Periodo2
+	inventor.chimpum.form.label.budget= Precio
+	inventor.chimpum.form.label.link= Link
+	
+	inventor.chimpum.list.label.item= Item
+	inventor.item.list.label.item.identify.name= Nombre
+	inventor.item.list.label.item.identify.code= Codigo
+	inventor.item.list.label.item.identify.technology=Tecnologia
+	inventor.item.list.label.item.identify.description= Descripcion
+	inventor.item.list.label.item.identify.retailPrice= Precio
+	inventor.item.list.label.item.identify.link=Link
+    inventor.item.list.label.item.identify.status= Estado
+	inventor.item.list.label.item.identify.type= Tipo
+	inventor.chimpum.list.label.item.details= Detalles de chimpum
+
+	inventor.chimpum.list.label.code=Codigo
+	inventor.chimpum.list.label.creation=Momento de creacion
+	inventor.chimpum.list.label.title=Titulo
+	inventor.chimpum.list.label.description=Descripcion
+	inventor.chimpum.list.label.startsAt=Periodo1
+	inventor.chimpum.list.label.finishesAt=Periodo2
+	inventor.chimpum.list.label.budget=Precio
+	inventor.chimpum.list.label.link=Link
+	inventor.chimpum.list.label.item.identify.code=Codigo
+
+	inventor.chimpum.form.button.create = Crear
+	
+	inventor.chimpum.form.label.update = Actualizar
+	inventor.chimpum.form.label.delete = Borrar
+
+	inventor.chimpum.form.button.update = Actualizar

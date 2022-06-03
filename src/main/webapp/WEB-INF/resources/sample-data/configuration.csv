@@ -1,0 +1,2 @@
+key,weakSpamWords,strongSpamWords,strongSpamThreshold,weakSpamThreshold,defaultCurr,AcceptedCurr
+configuration-01,"sexy,nigeria,you've won,one million,sexi,has ganado,un millon","sex,hard core,viagra,cialis,sexo",0.1,0.25,EUR,"EUR,USD,GBP"

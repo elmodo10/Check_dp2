@@ -1,0 +1,5 @@
+authenticated.configuration.list.label.acceptedCurr = Monedas Aceptadas
+authenticated.configuration.list.label.defaultCurr = Moneda por defecto
+
+authenticated.configuration.list.label.service = Servicio
+authenticated.configuration.list.label.apimessage = 1€ en la divisa del sistema

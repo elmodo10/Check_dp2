@@ -1,0 +1,5 @@
+key,code,creation,title,description,startsAt,finishesAt,budget,link,key:artefact
+chimpum-01,ABC-123,2022/05/15 15:22,prueba1,hola,2022/05/15 15:22,2022/05/22 15:22,50.00 eur,https://google.es,item-01
+chimpum-02,ABC-124,2022/05/15 15:22,prueba1,hola,2022/05/15 15:22,2022/05/22 15:22,50.00 eur,https://google.es,item-03
+chimpum-03,ABC-125,2022/05/15 15:22,prueba1,hola,2022/05/15 15:22,2022/05/22 15:22,50.00 eur,https://google.es,item-04
+chimpum-04,ABC-126,2022/05/15 15:22,prueba1,hola,2022/05/15 15:22,2022/05/22 15:22,50.00 eur,https://google.es,item-02

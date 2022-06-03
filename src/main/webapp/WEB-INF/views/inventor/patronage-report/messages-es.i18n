@@ -1,0 +1,34 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+inventor.patronage-report.form.label.seqNumber = Número de secuencia 
+inventor.patronage-report.form.label.createdAt = Fecha de creación
+inventor.patronage-report.form.label.memorandum = Memorandum
+inventor.patronage-report.form.label.link = Enlace
+inventor.patronage-report.form.label.patronage.code = Código de patrocinio
+
+inventor.patronage-report.list.label.seqNumber = Número de secuencia
+inventor.patronage-report.list.label.createdAt = Fecha de creación
+inventor.patronage-report.list.label.memorandum = Memorandum
+inventor.patronage-report.list.label.patronage = Patrocinio
+inventor.patronage-report.list.label.link = Enlace
+inventor.patronage-report.list.label.patronage.details = Detalles del informe de patrocinio
+inventor.patronage-report.list.label.identify.code = Código de patrocinio
+
+
+inventor.patronage.list.label.patronage.identify.status = Estado
+inventor.patronage.list.label.patronage.identify.code = Código de patrocinio
+inventor.patronage.list.label.patronage.identify.legalStuff = Asuntos legales
+inventor.patronage.list.label.patronage.identify.budget = Presupuesto
+inventor.patronage.list.label.patronage.identify.startsAt = Fecha de inicio
+inventor.patronage.list.label.patronage.identify.finishesAt = Fecha final
+inventor.patronage.list.label.patronage.identify.link = Link
+

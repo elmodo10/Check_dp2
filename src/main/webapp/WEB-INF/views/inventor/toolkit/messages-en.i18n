@@ -1,0 +1,32 @@
+inventor.toolkit.list.label.title = Title 
+inventor.toolkit.list.label.descripcion = Description 
+inventor.toolkit.list.label.link = Link
+
+inventor.toolkit.form.label.code = Code
+inventor.toolkit.form.label.title = Title
+inventor.toolkit.form.label.descripcion = Description
+inventor.toolkit.form.label.assemblyNotes = Assembly Notes
+inventor.toolkit.form.label.retailPrice = Retail Price (in System's Currency)
+inventor.toolkit.form.label.link = Link
+inventor.toolkit.form.label.status = Status
+
+
+inventor.toolkit.form.buttom.items = Items
+inventor.toolkit.create = Create a toolkit
+inventor.toolkit.form.button.create = Create
+inventor.toolkit.form.button.update = Update
+inventor.toolkit.form.button.delete = Delete
+inventor.toolkit.form.button.publish = Publish
+
+inventor.toolkit.code.strongSpam = Contains strong spam
+inventor.toolkit.title.strongSpam = Contains strong spam
+inventor.toolkit.description.strongSpam = Contains strong spam
+inventor.toolkit.assemblyNotes.strongSpam = Contains strong spam
+inventor.toolkit.link.strongSpam = Contains strong spam
+inventor.toolkit.code.weakSpam = Contains weak spam
+inventor.toolkit.title.weakSpam = Contains weak spam
+inventor.toolkit.description.weakSpam = Contains weak spam
+inventor.toolkit.assemblyNotes.weakSpam = Contains weak spam
+inventor.toolkit.link.weakSpam = Contains weak spam
+
+inventor.label.moneyExchange = Price in System's Currency

@@ -1,0 +1,50 @@
+# i18n-en.i18n
+#
+# Copyright (C) 2012-2022 Rafael Corchuelo.
+#
+# In keeping with the traditional purpose of furthering education and research, it is
+# the policy of the copyright owner to permit non-commercial use and redistribution of
+# this software. It has been tested carefully, but it is not guaranteed for any particular
+# purposes.  The copyright owner does not offer any warranties or representations, nor do
+# they accept any liabilities with respect to them.
+
+
+	inventor.chimpum.form.label.code=Code
+	inventor.chimpum.form.label.creation=Creation
+	inventor.chimpum.form.label.title= Title
+	inventor.chimpum.form.label.description= Description
+	inventor.chimpum.form.label.startsAt= startsAt
+	inventor.chimpum.form.label.finishesAt=finishesAt
+	inventor.chimpum.form.label.budget= Budget
+	inventor.chimpum.form.label.link= Link
+	
+	inventor.chimpum.list.label.item= Item
+	inventor.item.list.label.item.identify.name= Name
+	inventor.item.list.label.item.identify.code= Code
+	inventor.item.list.label.item.identify.technology=Technology
+	inventor.item.list.label.item.identify.description= Description
+	inventor.item.list.label.item.identify.retailPrice= RetailPrice
+	inventor.item.list.label.item.identify.link=Link
+    inventor.item.list.label.item.identify.status= Status
+	inventor.item.list.label.item.identify.type= Type
+	inventor.chimpum.list.label.item.details= Chimpum details
+
+	inventor.chimpum.list.label.code=Code
+	inventor.chimpum.list.label.creation=Creation
+	inventor.chimpum.list.label.title=Title
+	inventor.chimpum.list.label.description=Description
+	inventor.chimpum.list.label.startsAt=startsAt
+	inventor.chimpum.list.label.finishesAt=finishesAt
+	inventor.chimpum.list.label.budget=Budget
+	inventor.chimpum.list.label.link=Link
+	inventor.chimpum.list.label.item.identify.code=Code
+	
+	inventor.chimpum.form.button.create = Create
+	
+	inventor.chimpum.form.label.update = Update
+	inventor.chimpum.form.label.delete = Delete
+	inventor.chimpum.form.button.update = Update
+
+ 
+
+

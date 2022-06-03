@@ -1,0 +1,10 @@
+
+patron.patronageReport.form.label.seqNumber = Automatic sequence number
+patron.patronageReport.form.label.createdAt = Created At
+patron.patronageReport.form.label.memorandum = Memorandum
+patron.patronageReport.form.label.link = Link
+
+patron.patronageReport.list.label.seqNumber = Automatic sequence number
+patron.patronageReport.list.label.createdAt = Created At
+patron.patronageReport.list.label.memorandum = Memorandum
+patron.patronageReport.list.label.link = Link

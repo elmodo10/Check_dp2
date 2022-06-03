@@ -1,0 +1,13 @@
+authenticated.announcement.list.label.title = Title 
+authenticated.announcement.list.label.creation = Moment of creation
+authenticated.announcement.list.label.link = Link
+authenticated.announcement.list.label.critic = Is critic
+
+authenticated.announcement.form.label.title = Title
+authenticated.announcement.form.label.creation = Moment of creation
+authenticated.announcement.form.label.link = Link
+authenticated.announcement.form.label.critic = Is critic
+
+
+
+authenticated.announcement.form.buttom.announcements = Items

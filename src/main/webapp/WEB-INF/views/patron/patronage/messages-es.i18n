@@ -1,0 +1,50 @@
+
+authenticated.patron.patronage.form.label.status = Estado
+authenticated.patron.patronage.form.label.code = Código
+authenticated.patron.patronage.form.label.legalStuff = Material legal
+authenticated.patron.patronage.form.label.budget = Presupuesto
+authenticated.patron.patronage.form.label.startsAt = Empieza A
+authenticated.patron.patronage.form.label.finishesAt = Termina A
+authenticated.patron.patronage.form.label.link = Link
+authenticated.patron.patronage.form.label.inventor.company = Compañia del Inventor
+authenticated.patron.patronage.form.label.inventor.statement = Declaracion del Inventor
+authenticated.patron.patronage.form.label.inventor.link = Link del Invetor
+
+patron.patronage.form.buttom.patronage-reports = Reportes del patronage
+
+authenticated.patron.patronage.form.label.publishedStatus = Estatus de la Publicación
+
+authenticated.patron.patronage.form.label.inventor = Nombre de Usuario del Inventor
+
+
+patron.patronage.error.minimumStartAt = La fecha debe de ser como minimo un mes despues de la fecha de creacion
+patron.patronage.error.minimumFinishesAt = La fecha debe de ser como minimo un mes despues de la fecha de cuando empieza
+
+
+administrator.announcement.strongspam = Spam Fuerte
+administrator.announcement.weakspam = Spam Debil
+
+
+authenticated.patron.patronage.form.label.proposed = Propuesta
+authenticated.patron.patronage.form.label.accepted = Aceptada
+authenticated.patron.patronage.form.label.denied = Denegada
+
+
+authenticated.patron.patronage.form.button.update = Actualizar Patronage
+authenticated.patron.patronage.form.button.publish = Publicar Patronage
+authenticated.patron.patronage.form.button.create = Crear Patronage
+authenticated.patron.patronage.form.button.delete = Borrar Patronage
+
+
+authenticated.patron.patronage.list.label.status = Estado
+authenticated.patron.patronage.list.label.code = Código
+authenticated.patron.patronage.list.label.legalStuff = Material legal
+authenticated.patron.patronage.list.label.budget = Presupuesto
+authenticated.patron.patronage.list.label.startsAt = Empieza En
+authenticated.patron.patronage.list.label.finishesAt = Termina EN
+
+patron.label.moneyExchange = Presupuesto en la divisa del sistema
+
+inventor.toolkit.title.codeNotUnique = El código del Patronage debe ser único
+
+authenticated.patron.patronage.list.label.priceGreatherZero = El precio debe ser mayor de 0

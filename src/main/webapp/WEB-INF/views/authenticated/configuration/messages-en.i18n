@@ -1,0 +1,5 @@
+authenticated.configuration.list.label.acceptedCurr = Accepted Currencies
+authenticated.configuration.list.label.defaultCurr = Default Currency
+
+authenticated.configuration.list.label.service = Service
+authenticated.configuration.list.label.apimessage = 1€ in System's currency

@@ -1,0 +1,5 @@
+recordIndex,seqNumber,createdAt,memorandum,link,confirm
+0,abc-001,2022/03/10 15:22,,https://google.es,true
+0,abc-002,2022/03/10 15:22,Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo Memorandum demasiado largo,https://google.es,true
+0,abc-003,2022/03/10 15:22,Memorandum del reporte,https://google.es,false
+

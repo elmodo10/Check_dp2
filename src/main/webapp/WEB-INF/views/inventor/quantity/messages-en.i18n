@@ -1,0 +1,44 @@
+inventor.quantity.list.label.number = Quantity
+inventor.quantity.list.label.name = Name
+inventor.quantity.list.label.code = Code
+inventor.quantity.list.label.retailPrice = Retail Price
+inventor.quantity.list.label.status = Status
+
+inventor.quantity.form.label.number = Number 
+inventor.quantity.form.label.name = Name
+inventor.quantity.form.label.code = Code
+inventor.quantity.form.label.technology = Technology
+inventor.quantity.form.label.description = Description
+inventor.quantity.form.label.retailPrice = Retail Price
+inventor.quantity.form.label.link = Link
+inventor.quantity.form.label.status = Status
+inventor.quantity.form.label.type = Type
+
+inventor.quantity.form.label.item = Item
+
+inventor.toolkit.form.button.quantity = Add Items
+inventor.quantity.form.button.create = Add
+
+inventor.quantity.item.noPublished = This item hasnt been published 
+inventor.quantity.number.tool = You only can add 1 instance of one tool
+inventor.quantity.toolkit.noPublished = You cant add items to this toolkit (This toolkit has been published yet)
+inventor.quantity.item.status = You cant update a published item
+
+inventor.quantity.item.code.strongSpam = Contains strong spam
+inventor.quantity.item.description.strongSpam = Contains strong spam
+inventor.quantity.item.link.strongSpam = Contains strong spam
+inventor.quantity.item.name.strongSpam = Contains strong spam
+inventor.quantity.item.technology.strongSpam = Contains strong spam
+
+inventor.quantity.item.code.weakSpam = Contains weak spam
+inventor.quantity.item.description.weakSpam = Contains weak spam
+inventor.quantity.item.link.weakSpam = Contains weak spam
+inventor.quantity.item.name.weakSpam = Contains weak spam
+inventor.quantity.item.technology.weakSpam = Contains weak spam
+
+inventor.quantity.item.exist = This item exist on the toolkit yet
+
+inventor.quantity.form.button.update = Update number of items
+
+inventor.quantity.form.button.updateItem = Update owned item
+

@@ -1,0 +1,20 @@
+# i18n-es.i18n
+#
+
+administrator.configuration.list.label.defaultCurr = Predeterminado
+administrator.configuration.list.label.acceptedCurr = Aceptadas
+administrator.configuration.list.label.strongSpamThreshold = Ponderación
+administrator.configuration.list.label.strongSpamWords = SPAM Fuerte
+administrator.configuration.list.label.weakSpamThreshold = Ponderación
+administrator.configuration.list.label.weakSpamWords = SPAM Débil
+
+administrator.configuration.form.label.defaultCurr = Divisa predeterminada
+administrator.configuration.form.label.acceptedCurr = Divisas aceptadas
+administrator.configuration.form.label.strongSpamThreshold = Ponderación SPAM Fuerte
+administrator.configuration.form.label.strongSpamWords = Lista de palabras SPAM fuerte
+administrator.configuration.form.label.weakSpamThreshold = Ponderación SPAM Débil
+administrator.configuration.form.label.weakSpamWords = Lista de palabras SPAM débil
+
+administrator.configuration.form.button.update = Actualizar configuración
+
+administrator.configuration.currency.notExist = La divisa no existe en la lista de divisas aceptadas

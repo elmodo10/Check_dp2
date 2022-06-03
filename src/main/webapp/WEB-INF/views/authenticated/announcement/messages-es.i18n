@@ -1,0 +1,13 @@
+authenticated.announcement.list.label.title = Título 
+authenticated.announcement.list.label.creation = Momento de creación
+authenticated.announcement.list.label.link = Link
+authenticated.announcement.list.label.critic = Es crítico
+
+authenticated.announcement.form.label.title = Título
+authenticated.announcement.form.label.creation = Momento de creación
+authenticated.announcement.form.label.link = Link
+authenticated.announcement.form.label.critic = Es crítico
+
+
+
+authenticated.announcement.form.buttom.announcements = Objetos

@@ -1,0 +1,20 @@
+# i18n-es.i18n
+#
+
+administrator.configuration.list.label.defaultCurr = Default
+administrator.configuration.list.label.acceptedCurr = Acepted
+administrator.configuration.list.label.strongSpamThreshold = Strong SPAM Weighting
+administrator.configuration.list.label.strongSpamWords = Strong SPAM word list
+administrator.configuration.list.label.weakSpamThreshold = Weak SPAM Weighing
+administrator.configuration.list.label.weakSpamWords = Weak SPAM 
+
+administrator.configuration.form.label.defaultCurr = Default currency
+administrator.configuration.form.label.acceptedCurr = Acepted currency
+administrator.configuration.form.label.strongSpamThreshold = Strong SPAM Weighting
+administrator.configuration.form.label.strongSpamWords = Strong SPAM word list
+administrator.configuration.form.label.weakSpamThreshold = Weak SPAM Weighting
+administrator.configuration.form.label.weakSpamWords = Weak SPAM word list
+
+administrator.configuration.form.button.update = Update configuration
+
+administrator.configuration.currency.notExist = Currency not listed in accepted currencies list

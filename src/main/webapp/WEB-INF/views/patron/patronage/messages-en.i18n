@@ -1,0 +1,49 @@
+
+authenticated.patron.patronage.form.label.status = Status
+
+authenticated.patron.patronage.form.label.code = Code
+authenticated.patron.patronage.form.label.legalStuff = Legal Stuff
+authenticated.patron.patronage.form.label.budget = Budget
+authenticated.patron.patronage.form.label.startsAt = Start At
+authenticated.patron.patronage.form.label.finishesAt = Finishes At
+authenticated.patron.patronage.form.label.link = Link
+authenticated.patron.patronage.form.label.inventor.company = Inventor Company
+authenticated.patron.patronage.form.label.inventor.statement = Inventor Statement
+authenticated.patron.patronage.form.label.inventor.link = Inventor Link
+
+patron.patronage.form.buttom.patronage-reports = Patronage Reports
+
+authenticated.patron.patronage.form.label.publishedStatus = Published Status
+
+
+
+patron.patronage.error.minimumStartAt = The date must be at least one month after the creation date
+patron.patronage.error.minimumFinishesAt = The date must be at least one month after the start date
+
+administrator.announcement.strongspam = Strong Spam
+administrator.announcement.weakspam = Weak Spam
+
+
+authenticated.patron.patronage.form.label.proposed = Proposed
+authenticated.patron.patronage.form.label.accepted = Accepted
+authenticated.patron.patronage.form.label.denied = Denied
+
+authenticated.patron.patronage.form.label.inventor = Inventor Username
+
+authenticated.patron.patronage.form.button.update = Update Patronage
+authenticated.patron.patronage.form.button.publish = Publish Patronage
+authenticated.patron.patronage.form.button.create = Create Patronage
+authenticated.patron.patronage.form.button.delete = Delete Patronage
+
+authenticated.patron.patronage.list.label.status = Status
+authenticated.patron.patronage.list.label.code = Code
+authenticated.patron.patronage.list.label.legalStuff = Legal Stuff
+authenticated.patron.patronage.list.label.budget = Budget
+authenticated.patron.patronage.list.label.startsAt = Start At
+authenticated.patron.patronage.list.label.finishesAt = Finishes At
+
+patron.label.moneyExchange = Budget in System's Currency
+
+inventor.toolkit.title.codeNotUnique = Patronage's code is not unique
+
+authenticated.patron.patronage.list.label.priceGreatherZero = Prize must be greather than zero

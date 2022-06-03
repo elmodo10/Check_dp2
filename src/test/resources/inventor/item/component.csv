@@ -1,0 +1,5 @@
+recordIndex,name,code,technology,description,retailPrice,link
+0,MySQL,ABC-124,Server,Bases de datos MySQL,GBP 125.00,https://google.com
+1,Views,ABC-125-A,Server,Componente de la aplicación web,USD 10.00,https://google.com
+2,Web Server,ABC-123-F,Server,Http server,GBP 122.00,https://google.com
+

@@ -1,0 +1,13 @@
+En caso de fallo de la api el problema es que se han superado el numero de peticios,
+si esto pasa se debe cambiar en acme.forms en la clase MoneyExahange
+se ha de cambiar en el apiUrl
+https://v6.exchangerate-api.com/v6/id/pair/
+donde la id es lo que cambia, aqui hay dos funcionales 
+id1=a7812c1c3e0da8c6b901d388
+id2=85c01b226d675bdd5132b3ed
+
+si quiere crear una id para si mismo aqui esta la pagina
+https://app.exchangerate-api.com/
+
+y puede utilizar un correo de 10 min
+https://10minutemail.com/

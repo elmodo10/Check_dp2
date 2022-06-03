@@ -1,0 +1,43 @@
+inventor.quantity.list.label.number = Cantidad
+inventor.quantity.list.label.name = Nombre
+inventor.quantity.list.label.code = Código
+inventor.quantity.list.label.retailPrice = Precio
+inventor.quantity.list.label.status = Estado
+
+inventor.quantity.form.label.number = Cantidad 
+inventor.quantity.form.label.name = Nombre
+inventor.quantity.form.label.code = Código
+inventor.quantity.form.label.technology = Tecnología
+inventor.quantity.form.label.description = Descripción
+inventor.quantity.form.label.retailPrice = Precio
+inventor.quantity.form.label.link = Enlace
+inventor.quantity.form.label.status = Estado
+inventor.quantity.form.label.type = Tipo
+
+inventor.quantity.form.label.item = Item
+
+inventor.toolkit.form.button.quantity = Añadir Items
+inventor.quantity.form.button.create = Añadir
+
+
+inventor.quantity.item.noPublished = Este item aún no ha sido publicado
+inventor.quantity.number.tool = Solo puedes añadir una instancia de cada herramienta
+inventor.quantity.item.status = No puedes modificar un item que ha sido publicado
+
+inventor.quantity.item.code.strongSpam = Contiene spam fuerte
+inventor.quantity.item.description.strongSpam = Contiene spam fuerte
+inventor.quantity.item.link.strongSpam = Contiene spam fuerte
+inventor.quantity.item.name.strongSpam = Contiene spam fuerte
+inventor.quantity.item.technology.strongSpam = Contiene spam fuerte
+
+inventor.quantity.item.code.weakSpam = Contiene spam débil
+inventor.quantity.item.description.weakSpam = Contiene spam débil
+inventor.quantity.item.link.weakSpam = Contiene spam débil
+inventor.quantity.item.name.weakSpam = Contiene spam débil
+inventor.quantity.item.technology.weakSpam = Contiene spam débil
+
+inventor.quantity.item.exist = Este item ya forma parte de la toolkit
+
+inventor.quantity.form.button.update = Actualizar cantidad
+
+inventor.quantity.form.button.updateItem = Actualizar item en propiedad

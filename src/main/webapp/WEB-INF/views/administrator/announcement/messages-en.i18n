@@ -1,0 +1,18 @@
+administrator.announcement.list.label.creation = Moment of creation
+administrator.announcement.list.label.title = Title 
+administrator.announcement.list.label.body = Body 
+administrator.announcement.list.label.critic = Is critic
+administrator.announcement.list.label.link = Link
+
+
+administrator.announcement.form.label.title = Title
+administrator.announcement.form.label.body = Body
+administrator.announcement.form.label.critic = Is critic
+administrator.announcement.form.label.link = Link
+
+
+administrator.announcement.form.label.confirm=Confirm
+administrator.announcement.form.button.create=Create
+administrator.announcement.accept.error= Confirm the creation to continue please
+administrator.announcement.strongspam= Strong Spam
+administrator.announcement.weakspam= Weak Spam
